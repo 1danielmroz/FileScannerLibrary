@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileScannerLibrary", "FileScannerLibrary\FileScannerLibrary.csproj", "{6922DD0F-2F8E-46CA-A376-40F52AB40A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfFileScannerApp", "FileScanner\WpfFileScannerApp.csproj", "{DB0BB249-C5E0-4C97-A6D4-27A656A850B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6922DD0F-2F8E-46CA-A376-40F52AB40A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6922DD0F-2F8E-46CA-A376-40F52AB40A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6922DD0F-2F8E-46CA-A376-40F52AB40A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6922DD0F-2F8E-46CA-A376-40F52AB40A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0BB249-C5E0-4C97-A6D4-27A656A850B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0BB249-C5E0-4C97-A6D4-27A656A850B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0BB249-C5E0-4C97-A6D4-27A656A850B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0BB249-C5E0-4C97-A6D4-27A656A850B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45871E0A-4ECD-41C1-94D2-E24E05F47AA9}
+	EndGlobalSection
+EndGlobal
